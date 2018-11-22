@@ -26,29 +26,29 @@
 - npm install redux
 
 # [knowledge]
-1/ Fetch API, [----1day-----]
+1/ Fetch API
 - concept
 [ref] https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 - use libary axios for project,
 
-2/ Http [----1day-----]
+2/ Http
 - concept
 Authentication with JWT(JsonWebToken)
 
-3/ Redux [----2day-----]
+3/ Redux 
 - concept
-- async actions [1day]
+- async actions
 - middle ware
-- build example Todos [2day]
-- Redux saga [1day]
+- build example Todos
+- Redux saga
 - Redux thunk
 
 
-4/ Router v4 [2day]
+4/ Router v4 
 - concept, example 
 [ref]https://reacttraining.com/react-router/web/example/basic
 
-5/ Reactjs [-------2day-----]
+5/ Reactjs 
 [ref] https://reactjs.org/docs/getting-started.html
 - Basic
  + Lifecycle
@@ -56,7 +56,7 @@ Authentication with JWT(JsonWebToken)
  + two way binding use (refs)
  + use Fragments
 
-- Advanced [1day]
+- Advanced 
  + How react Rendering Elements, and Virtual DOM in React
  + Functional Components: 
   - [ref] https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
@@ -65,7 +65,7 @@ Authentication with JWT(JsonWebToken)
 6/ Postman 
 - how use post man
 
-7/ Webpack [---2day--]
+7/ Webpack 
 - how use webpack
 
 8/ struct-file
@@ -87,7 +87,7 @@ Authentication with JWT(JsonWebToken)
 - https://getbootstrap.com/docs/4.0/components/card/
 ------------------Time Total: 9[Day] 
 
-
+12/ Github
 - echo "# conduit" >> README.md
 - git init
 - git add README.md
