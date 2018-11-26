@@ -24,6 +24,7 @@
 - npm install axios --save
 - npm install react-redux
 - npm install redux
+- npm install react-cookie
 
 # [knowledge]
 1/ Fetch API
