@@ -34,6 +34,7 @@
 2/ Http
 - concept
 Authentication with JWT(JsonWebToken)
+[ref] https://stormpath.com/blog/token-auth-spa
 
 3/ Redux 
 - concept
