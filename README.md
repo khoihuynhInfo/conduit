@@ -84,6 +84,7 @@ Authentication with JWT(JsonWebToken)
  + async await , promise
  
 10/ Git ? 
+http://rogerdudler.github.io/git-guide/index.vi.html
 
 11/  Framwork FrontEnd 
 - https://material-ui.com/
