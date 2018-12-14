@@ -25,6 +25,7 @@
 - npm install react-redux
 - npm install redux
 - npm install react-cookie
+- npm install moment --save
 
 # [knowledge]
 1/ Fetch API
